@@ -1,0 +1,6 @@
+C:\andre\projetos\pessoal\cqrs-simple\obj\Debug\netcoreapp3.1\CQRS.csprojAssemblyReference.cache
+C:\andre\projetos\pessoal\cqrs-simple\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.StaticWebAssets.Manifest.cache
+C:\andre\projetos\pessoal\cqrs-simple\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.StaticWebAssets.xml
+C:\andre\projetos\pessoal\cqrs-simple\obj\Debug\netcoreapp3.1\CQRS.MvcApplicationPartsAssemblyInfo.cache
+C:\andre\projetos\pessoal\cqrs-simple\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfoInputs.cache
+C:\andre\projetos\pessoal\cqrs-simple\obj\Debug\netcoreapp3.1\CQRS.AssemblyInfo.cs
